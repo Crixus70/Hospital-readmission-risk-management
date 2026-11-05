@@ -8,15 +8,15 @@ This repository is for hospital leaders, quality and safety teams, care coordina
 
 Visual summary of the key indicators in this guide, designed for finance and administrative decision-makers. Charts 1, 2, and 5 are based on the figures and indicators cited in this guide; charts 3 and 4 are illustrative scenarios with their assumptions stated on the chart.
 
-![Tasa de reingreso hospitalario a 30 días: 1 de cada 5 pacientes](images/01_tasa_reingreso_30d.png)
+![30-day hospital readmission rate: 1 in 5 patients](images/01_tasa_reingreso_30d.png)
 
-![Brecha de seguimiento: la mitad de los reingresos ocurre sin visita ambulatoria previa](images/02_brecha_seguimiento.png)
+![Follow-up gap: half of readmissions occur with no prior outpatient visit](images/02_brecha_seguimiento.png)
 
-![Impacto financiero anual de los reingresos (ejemplo ilustrativo)](images/03_impacto_financiero.png)
+![Annual financial impact of readmissions (illustrative example)](images/03_impacto_financiero.png)
 
-![Costo vs. ahorro estimado de intervenciones (ejemplo ilustrativo)](images/04_costo_vs_ahorro.png)
+![Estimated cost vs. savings of interventions (illustrative example)](images/04_costo_vs_ahorro.png)
 
-![Tablero de indicadores de gestión del reingreso hospitalario](images/05_tablero_indicadores.png)
+![Hospital readmission management indicator dashboard](images/05_tablero_indicadores.png)
 
 ### Predictive use case: readmission risk prediction
 
