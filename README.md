@@ -4,6 +4,20 @@ An informational guide to hospital readmission risk: what it is, why it matters 
 
 This repository is for hospital leaders, quality and safety teams, care coordinators, and anyone who wants to understand how good discharge practice supports both better care and sound resource management. It does not provide clinical advice.
 
+## Key indicators at a glance
+
+Visual summary of the key indicators in this guide, designed for finance and administrative decision-makers. Charts 1, 2, and 5 are based on the figures and indicators cited in this guide; charts 3 and 4 are illustrative scenarios with their assumptions stated on the chart.
+
+![Tasa de reingreso hospitalario a 30 días: 1 de cada 5 pacientes](images/01_tasa_reingreso_30d.png)
+
+![Brecha de seguimiento: la mitad de los reingresos ocurre sin visita ambulatoria previa](images/02_brecha_seguimiento.png)
+
+![Impacto financiero anual de los reingresos (ejemplo ilustrativo)](images/03_impacto_financiero.png)
+
+![Costo vs. ahorro estimado de intervenciones (ejemplo ilustrativo)](images/04_costo_vs_ahorro.png)
+
+![Tablero de indicadores de gestión del reingreso hospitalario](images/05_tablero_indicadores.png)
+
 ## Roadmap
 
 1. [Fundamentals](#1-fundamentals): definitions, measurement, and main drivers
