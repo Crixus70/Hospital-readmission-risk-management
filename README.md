@@ -8,21 +8,21 @@ This repository is for hospital leaders, quality and safety teams, care coordina
 
 Visual summary of the key indicators in this guide, designed for finance and administrative decision-makers. Charts 1, 2, and 5 are based on the figures and indicators cited in this guide; charts 3 and 4 are illustrative scenarios with their assumptions stated on the chart.
 
-<p align="center"><img src="images/01_tasa_reingreso_30d.png" alt="30-day hospital readmission rate: 1 in 5 patients" width="720"></p>
+<p align="center"><img src="images/01_readmission_rate_30d.png" alt="30-day hospital readmission rate: 1 in 5 patients" width="720"></p>
 
-<p align="center"><img src="images/02_brecha_seguimiento.png" alt="Follow-up gap: half of readmissions occur with no prior outpatient visit" width="720"></p>
+<p align="center"><img src="images/02_follow_up_gap.png" alt="Follow-up gap: half of readmissions occur with no prior outpatient visit" width="720"></p>
 
-<p align="center"><img src="images/03_impacto_financiero.png" alt="Annual financial impact of readmissions (illustrative example)" width="720"></p>
+<p align="center"><img src="images/03_financial_impact.png" alt="Annual financial impact of readmissions (illustrative example)" width="720"></p>
 
-<p align="center"><img src="images/04_costo_vs_ahorro.png" alt="Estimated cost vs. savings of interventions (illustrative example)" width="720"></p>
+<p align="center"><img src="images/04_cost_vs_savings.png" alt="Estimated cost vs. savings of interventions (illustrative example)" width="720"></p>
 
-<p align="center"><img src="images/05_tablero_indicadores.png" alt="Hospital readmission management indicator dashboard" width="720"></p>
+<p align="center"><img src="images/05_indicator_dashboard.png" alt="Hospital readmission management indicator dashboard" width="720"></p>
 
 ### Predictive use case: readmission risk prediction
 
 A machine learning model can estimate, for each discharged patient, whether they may return to hospital within a defined period. The output is a risk score that helps care teams prioritize follow-up (for example, an early visit, a call, or a medication review).
 
-<p align="center"><img src="images/06_caso_prediccion_riesgo.png" alt="Readmission risk prediction use case: from patient data to follow-up action" width="720"></p>
+<p align="center"><img src="images/06_readmission_risk_prediction.png" alt="Readmission risk prediction use case: from patient data to follow-up action" width="720"></p>
 
 Before use, the model needs clinical validation and must comply with patient data protection (privacy and consent). It supports clinical follow-up decisions and does not replace clinical judgment.
 
