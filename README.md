@@ -18,6 +18,14 @@ Visual summary of the key indicators in this guide, designed for finance and adm
 
 ![Tablero de indicadores de gestión del reingreso hospitalario](images/05_tablero_indicadores.png)
 
+### Predictive use case: readmission risk prediction
+
+A machine learning model can estimate, for each discharged patient, whether they may return to hospital within a defined period. The output is a risk score that helps care teams prioritize follow-up (for example, an early visit, a call, or a medication review).
+
+![Readmission risk prediction use case: from patient data to follow-up action](images/06_caso_prediccion_riesgo.png)
+
+Before use, the model needs clinical validation and must comply with patient data protection (privacy and consent). It supports clinical follow-up decisions and does not replace clinical judgment.
+
 ## Roadmap
 
 1. [Fundamentals](#1-fundamentals): definitions, measurement, and main drivers
